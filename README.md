@@ -1,2 +1,12 @@
-# web-technologies-lab
-Labaratory works on web technologies
+# Web Technologies Lab
+
+Це навчальний репозиторій для виконання
+лабораторних робіт.
+
+## Лабораторна робота №1
+
+Тема: Основи роботи з GitHub.
+
+## Автор
+
+Савельєва Анастасія
